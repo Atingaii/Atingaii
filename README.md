@@ -25,9 +25,7 @@
 
 ## ✨ About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" width="400" src="./README.assets/whoami.svg" alt="whoami" />
 
 > _"你好，我叫 Spark，一个热爱计算机、痴迷编程的工科生。<br/>
 > 喜欢从零搭起一个项目的过程，也享受在报错、重写、优化里慢慢长出来的那种感觉。"_
@@ -39,23 +37,7 @@
 - ✍️ 折腾日常都写在博客 [**sparkon.cn**](https://www.sparkon.cn/)
 - 💬 **mantra:** _折腾，记录，持续学习。_
 
-</td>
-<td width="45%" valign="top">
-
-<pre><code>~ whoami
-─────────────────────────────
-name      : Spark
-school    : SWU · Undergrad
-focus     : Backend / AI-tooling
-stack     : Java · Go · Astro
-editor    : IntelliJ IDEA · Vim
-shell     : WSL2 + tmux
-status    : 在折腾，且持续折腾中
-</code></pre>
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 <br/>
 
