@@ -23,24 +23,44 @@
 
 <br/>
 
-## <samp>:sparkles: About Me</samp>
+## ✨ About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+> _"你好，我叫 Spark，一个热爱计算机、痴迷编程的工科生。<br/>
+> 喜欢从零搭起一个项目的过程，也享受在报错、重写、优化里慢慢长出来的那种感觉。"_
+
+- 🎓 **Southwest University**（西南大学）在读
+- 📍 现居 **重庆 · Chongqing**
+- 🛠️ 主力 **Java**，正在向 **Go** 拓展
+- 🤖 把 **Claude Code / Codex / Cursor** 串成一条顺手的 AI 协作流
+- ✍️ 折腾日常都写在博客 [**sparkon.cn**](https://www.sparkon.cn/)
+- 💬 **mantra:** _折腾，记录，持续学习。_
+
+</td>
+<td width="45%" valign="top">
 
 ```yaml
-name:        Spark
-location:    Chongqing, China
-school:      Southwest University (SWU)
-identity:    本科在读 · 后端方向工科生
-focus:       Java 主力 · Go 拓展 · AI-assisted coding
-loves:
-  - 把环境装得像艺术品 (WSL2 / tmux / Codex / Claude Code)
-  - 在 README 报错和重写之间反复横跳
-  - 写博客、写笔记、写注释（顺序按重要性递减）
-mantra:      "折腾，记录，持续学习。"
+~ whoami
+─────────────────────────────
+name      : Spark
+school    : SWU · Undergrad
+focus     : Backend / AI-tooling
+stack     : Java · Go · Astro
+editor    : IntelliJ IDEA · Vim
+shell     : WSL2 + tmux
+status    : 在折腾，且持续折腾中
 ```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## <samp>:hammer_and_wrench: Tech Stack & Tools</samp>
+## 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
@@ -104,24 +124,26 @@ mantra:      "折腾，记录，持续学习。"
 
 <br/>
 
-## <samp>:bar_chart: GitHub Stats</samp>
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Atingaii">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atingaii&show_icons=true&hide_border=true&theme=tokyonight&icon_color=06B6D4&title_color=06B6D4&bg_color=00000000" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atingaii&layout=compact&hide_border=true&theme=tokyonight&title_color=06B6D4&bg_color=00000000" alt="top langs" />
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atingaii&theme=tokyonight" alt="profile" />
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atingaii&theme=tokyonight" alt="repos per language" />
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atingaii&theme=tokyonight" alt="most commit language" />
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atingaii&theme=tokyonight" alt="stats" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Atingaii&hide_border=true&theme=tokyonight&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&background=00000000" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Atingaii&hide_border=true&theme=tokyonight&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&background=00000000" alt="streak" />
 
 </div>
 
 <br/>
 
-## <samp>:memo: Latest Notes & Blogs</samp>
+## 📝 Latest Notes & Blogs
 
 > [!NOTE]
 > 我把每一次"配环境到怀疑人生"的过程都写成了文章，欢迎来 [sparkon.cn](https://www.sparkon.cn/) 串门。
@@ -131,7 +153,7 @@ mantra:      "折腾，记录，持续学习。"
 
 <br/>
 
-## <samp>:rocket: Now Building</samp>
+## 🚀 Now Building
 
 - 🌱 在打磨自己的 **Astro 主题 `Spark'Blog`**，让笔记长得像它该有的样子
 - 🐹 从 **Java 后端**慢慢迁移到 **Go**，理解一门语言的"另一种活法"
