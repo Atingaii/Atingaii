@@ -42,8 +42,7 @@
 </td>
 <td width="45%" valign="top">
 
-```yaml
-~ whoami
+<pre><code>~ whoami
 ─────────────────────────────
 name      : Spark
 school    : SWU · Undergrad
@@ -52,7 +51,7 @@ stack     : Java · Go · Astro
 editor    : IntelliJ IDEA · Vim
 shell     : WSL2 + tmux
 status    : 在折腾，且持续折腾中
-```
+</code></pre>
 
 </td>
 </tr>
