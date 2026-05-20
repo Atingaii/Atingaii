@@ -32,6 +32,7 @@
 
 - 🎓 **Southwest University**（西南大学）在读
 - 📍 现居 **重庆 · Chongqing**
+- 💼 目前在 **腾讯 · IEG** 担任 **后台开发实习生**，`2026.04 - 至今`
 - 🛠️ 主力 **Java**，正在向 **Go** 拓展
 - 🤖 把 **Claude Code / Codex / Cursor** 串成一条顺手的 AI 协作流
 - ✍️ 折腾日常都写在博客 [**sparkon.cn**](https://www.sparkon.cn/)
