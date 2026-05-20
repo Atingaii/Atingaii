@@ -6,7 +6,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="wave" /> Hi there, I'm 𝕊𝕡𝕒𝕣𝕜
 
-**`一个热爱计算机、痴迷编程的工科生 / Java & Go developer in the making`**
+**`西南大学在读 · 平时写 Java 和 Go，也爱折腾点小项目`**
 
 坐标 🏙️ **重庆** · 在读 🎓 **西南大学** · 折腾日常写在 ✍️ [**sparkon.cn**](https://www.sparkon.cn/)
 
@@ -27,16 +27,16 @@
 
 <img align="right" width="400" src="./README.assets/whoami.svg" alt="whoami" />
 
-> _"你好，我叫 Spark，一个热爱计算机、痴迷编程的工科生。<br/>
-> 喜欢从零搭起一个项目的过程，也享受在报错、重写、优化里慢慢长出来的那种感觉。"_
+> _"你好，我叫 Spark。平时主要写 Java，最近也在补 Go。<br/>
+> 我更喜欢把一个东西从零搭起来，再一点点改到顺手。"_
 
 - 🎓 **Southwest University**（西南大学）在读
 - 📍 现居 **重庆 · Chongqing**
 - 💼 目前在 **腾讯 · IEG** 担任 **后台开发实习生**，`2026.04 - 至今`
-- 🛠️ 主力 **Java**，正在向 **Go** 拓展
-- 🤖 把 **Claude Code / Codex / Cursor** 串成一条顺手的 AI 协作流
+- 🛠️ 现在主要写 **Java**，**Go** 也在慢慢补
+- 🤖 **Claude Code / Codex / Cursor** 我都在用，谁顺手就用谁
 - ✍️ 折腾日常都写在博客 [**sparkon.cn**](https://www.sparkon.cn/)
-- 💬 **mantra:** _折腾，记录，持续学习。_
+- 💬 常挂嘴边的是：_先跑起来，再慢慢改。_
 
 <br clear="both"/>
 
